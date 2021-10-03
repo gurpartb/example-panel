@@ -8,11 +8,11 @@ Hash: SHA512
   "signedByOrg": "gurpartapsbhatti",
   "signedByOrgName": "gurpartapsbhatti",
   "rootUrls": [
-    "http://localhost:3000/"
+    "http://localhost:3000/tcp"
   ],
   "plugin": "gurpartapsbhatt-example-plugin",
   "version": "1.0.0",
-  "time": 1633234650709,
+  "time": 1633235144662,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "CHANGELOG.md": "65b243d61e410b055ad3984a979fee25df47b24529bc2bcb35b8d95ca3dbd550",
@@ -28,9 +28,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqIEARMKAAYFAmFZLtoACgkQfk0ManCIZufvDgIJATf92sWd4i3RDO5h8umy
-QeTzHtrHcUdrD32GF0nsW3JiyxgHk+Ip1MwBWQzFiVJsbDVhTuMpXuctsWLe
-1V3jqERUAgkBEVs+G9tyzgGXi3fHyfVzpptsBe+NHNFPYJDkYLDmL4RAxBWU
-tWbg4r6MNpR+hE6/dyLZhI168SpCsWMD2hNoziA=
-=e/A4
+wqEEARMKAAYFAmFZMMgACgkQfk0ManCIZuczmQIJAeGyfWt65mX5sm6X+N8F
+1zVbmDVXPYusf4aoL/c4ASb1B1q8+M788AQUar228tsVu6MDLmCQCkClhmZ9
+eMQxg3vfAgj5tVxUqqlLPio7eAoDuH75dDoOFPcLnQfjMw8esi3ACc1B4D65
+2rOAbjvcLL7zCpM7idugmgJnF55C19n1cR3tVw==
+=uDm9
 -----END PGP SIGNATURE-----
